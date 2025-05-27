@@ -1,0 +1,40 @@
+
+[
+  {
+    "name": "iPhone 14 Pro",
+    "price": 1299,
+    "featured": true,
+    "createdAt": "2025-05-21T10:00:00.000Z",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "price": 999,
+    "featured": false,
+    "rating": 4.7,
+    "company": "samsung"
+  },
+  {
+    "name": "Redmi Note 12",
+    "price": 249,
+    "featured": true,
+    "rating": 4.5,
+    "createdAt": "2025-05-19T08:00:00.000Z",
+    "company": "redmi"
+  },
+  {
+    "name": "Mi 11X",
+    "price": 349,
+    "featured": false,
+    "rating": 4.6,
+    "createdAt": "2025-05-18T07:45:00.000Z",
+    "company": "mi"
+  },
+  {
+    "name": "Samsung M13",
+    "price": 199,
+    "featured": false,
+    "rating": 4.2,
+    "company": "samsung"
+  }
+]
